@@ -4,5 +4,5 @@
 # There are two forms which is responsive.
 # Events are used in javascript.
 # Post button is there in the feed page to upload post.
-# dark mode option is also available.
-# this project is responsive in other devices.
+# Dark mode option is also available.
+# This project is responsive in other devices.
